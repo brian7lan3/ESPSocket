@@ -4,7 +4,7 @@
 
 // var wsUri = "ws://" + location.host + ":81/";
 // var wsUri = "ws://espsocket.local:81/";
-var wsUri = "ws://espsocket.local:81/";
+var wsUri = "tcp://iot.eclipse.org";
 
 var output;
 var websocket;
