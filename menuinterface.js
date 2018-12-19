@@ -4,7 +4,7 @@
 
 // var wsUri = "ws://" + location.host + ":81/";
 // var wsUri = "ws://espsocket.local:81/";
-var wsUri = "ws://espsocket.local:81/";
+var wsUri = "ws://192.168.43.228";
 
 var output;
 var websocket;
